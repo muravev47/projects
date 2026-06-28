@@ -1,1 +1,1 @@
-# projects
+# octagon-example
